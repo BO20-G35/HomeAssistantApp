@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="app_name">Home Assistant</string>
+    <string name="app_name">Vulnerable Home Assistant</string>
     <string name="scanning_network">Scanning the network
 for Home Assistant</string>
     <string name="home_assistant_not_discover">Unable to find your
